@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.Python
+.env
+.venv/
+_assignment_extract/
+_intro/
+*.zip
+_filenames.txt
+_sheetnames.txt
+_intro_head.txt
