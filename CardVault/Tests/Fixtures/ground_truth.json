@@ -1,0 +1,112 @@
+[
+  {
+    "cardID": "C001",
+    "name": "Elena Marsh",
+    "company": "Northwind Labs",
+    "jobTitle": "Product Manager",
+    "mobile": "+1-555-0101",
+    "phone": "+1-555-0181",
+    "email": "elena.marsh@example.com",
+    "website": "www.northwind.example",
+    "address": "18 Harbor Road, Qinglan"
+  },
+  {
+    "cardID": "C007",
+    "name": "Grace Okonkwo",
+    "company": "Fieldnote Studio",
+    "jobTitle": "Editor",
+    "mobile": "+1-555-0107",
+    "phone": null,
+    "email": "grace.okonkwo@example.com",
+    "website": null,
+    "address": "30 Notebook Road, Qinglan"
+  },
+  {
+    "cardID": "C008",
+    "name": "林晓舟",
+    "company": "青岚科技",
+    "jobTitle": "产品经理",
+    "mobile": "+86 138-0000-1008",
+    "phone": "+86 21-0000-2008",
+    "email": "xiaozhou.lin@example.com",
+    "website": "www.qinglan-tech.example",
+    "address": "青岚市海港路18号"
+  },
+  {
+    "cardID": "C013",
+    "name": "何予安",
+    "company": "津渡咨询",
+    "jobTitle": "分析师",
+    "mobile": "+86 138-0000-1013",
+    "phone": "+86 21-0000-2013",
+    "email": "yuan.he@example.com",
+    "website": "www.jindu.example",
+    "address": "澄湾市渡口街15号"
+  },
+  {
+    "cardID": "C015",
+    "name": "周启年",
+    "company": "青岚大学",
+    "jobTitle": "Professor",
+    "mobile": "+86 138-0000-1015",
+    "phone": null,
+    "email": "qinian.zhou@example.com",
+    "website": null,
+    "address": "青岚市大学路1号"
+  },
+  {
+    "cardID": "C025",
+    "name": "Irene Cho",
+    "company": "Copperline Freight",
+    "jobTitle": "Logistics Lead",
+    "mobile": "+1-555-0125",
+    "phone": "+1-555-0185",
+    "email": "irene.cho@example.com",
+    "website": null,
+    "address": "410 Freight Road, Qinglan"
+  },
+  {
+    "cardID": "C029",
+    "name": "Nora Blake",
+    "company": "Paper Lantern Press",
+    "jobTitle": null,
+    "mobile": "+1-555-0129",
+    "phone": null,
+    "email": "nora.blake@example.com",
+    "website": null,
+    "address": "48 Paper Street, Qinglan"
+  },
+  {
+    "cardID": "C030",
+    "name": null,
+    "company": "岚桥设计事务所",
+    "jobTitle": null,
+    "mobile": null,
+    "phone": "+86 21-0000-2030",
+    "email": "studio@lanqiao.example",
+    "website": null,
+    "address": "青岚市设计路9号"
+  },
+  {
+    "cardID": "C032",
+    "name": "丁小山",
+    "company": null,
+    "jobTitle": null,
+    "mobile": "+86 138-0000-1032",
+    "phone": null,
+    "email": null,
+    "website": null,
+    "address": null
+  },
+  {
+    "cardID": "C034",
+    "name": "Mina Cole",
+    "company": null,
+    "jobTitle": null,
+    "mobile": "+1-555-0134",
+    "phone": null,
+    "email": "mina.cole@example.com",
+    "website": null,
+    "address": "8 Apple Street, Qinglan"
+  }
+]

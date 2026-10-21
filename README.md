@@ -15,4 +15,4 @@
 
 ## 说明
 
-测试名片为课程用虚构数据，若教师发放官方测试集请优先使用官方数据。实现阶段使用 SwiftUI，尚未包含 App 源码（第二周起）。
+测试名片为课程用虚构数据，若教师发放官方测试集请优先使用官方数据。iOS 工程在 `CardVault/`，用 Xcode 打开 `CardVault.xcodeproj`，scheme 为 `CardVault`。Mac 上 2026-10-20 的测试记录见 `TEST_REPORT.md`。
